@@ -1,7 +1,7 @@
 # 📍 [GeoVerse 🌍 – Explore Countries of the World]()
 
-> GitHub Repository: []()  
-> Hosted on Vercel: []()
+> GitHub Repository: [https://github.com/hetram1/GeoVerse](https://github.com/hetram1/GeoVerse)  
+> Hosted on Vercel: [https://geo-verse-sandy.vercel.app/](https://geo-verse-sandy.vercel.app/)
 
 ---
 
@@ -92,7 +92,7 @@ External API data is fetched and displayed dynamically using user interactions.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/hetram1/GeoVerse.git
+git clone https://github.com/hetram1/GeoVerse
 cd GeoVerse
 npm install
 ```
